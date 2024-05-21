@@ -1,2 +1,2 @@
-# My_first_program
-Programmation in Machine Learning 
+# My_first_programming
+Programming in Machine Learning 
